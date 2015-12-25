@@ -43,6 +43,7 @@
     "array.from": "^0.2.0",
     "co": "^4.5.4",
     "css-parse": "~2.0.0",
+    "css-to-xpath": "^0.1.0",
     "css-value": "~0.0.1",
     "deepmerge": "~0.2.7",
     "ejs": "^2.3.1",
